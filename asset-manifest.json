@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/API-Call-Get-_Delete-Method-and-Updating/static/css/main.073c9b0a.css",
+    "main.js": "/API-Call-Get-_Delete-Method-and-Updating/static/js/main.b0ef4ae3.js",
+    "static/js/787.db579856.chunk.js": "/API-Call-Get-_Delete-Method-and-Updating/static/js/787.db579856.chunk.js",
+    "index.html": "/API-Call-Get-_Delete-Method-and-Updating/index.html",
+    "main.073c9b0a.css.map": "/API-Call-Get-_Delete-Method-and-Updating/static/css/main.073c9b0a.css.map",
+    "main.b0ef4ae3.js.map": "/API-Call-Get-_Delete-Method-and-Updating/static/js/main.b0ef4ae3.js.map",
+    "787.db579856.chunk.js.map": "/API-Call-Get-_Delete-Method-and-Updating/static/js/787.db579856.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b0ef4ae3.js"
+  ]
+}
